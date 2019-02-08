@@ -1,0 +1,61 @@
+.barebone_HideMe {
+    visibility: hidden;
+	height: 0;
+	width: 0;
+	position: fixed !important;
+	top: 0;
+	left: 0;
+	margin-bottom: 0 !important;
+}
+
+.verticalCenter {
+    display: flex;
+    -ms-align-items: center;
+    align-items: center;
+}
+
+.alignCenter {
+    text-align: center;
+}
+
+.barebone_loadingScreen {
+	position: fixed;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: white;
+	z-index: 99999999999;
+}
+
+.barebone_loadingScreen div {
+	position: absolute;
+	height:50px;
+	width:50px;
+	background-size:contain;
+	top: 50%;
+	left: 50%;
+	bottom: 50%;
+	right: 50%;
+}
+
+.barebone_partialLoadingScreen {
+	position: absolute;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	background-color: rgb(0,0,0,0.3);
+	z-index: 99999999999;
+}
+
+.barebone_partialLoadingScreen div {
+	position: absolute;
+	height:50px;
+	width:50px;
+	background-size:contain;
+	top: 50%;
+	left: 50%;
+	bottom: 50%;
+	right: 50%;
+}

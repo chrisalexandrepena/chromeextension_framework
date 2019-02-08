@@ -1,0 +1,8 @@
+# Folders
+build/
+node_modules/
+.git/
+src/Vendor/APICallers/
+
+# Files
+.env

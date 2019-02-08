@@ -1,0 +1,24 @@
+{
+  "name": "testextension",
+  "version": "1.0.0",
+  "description": "",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "del": "^3.0.0",
+    "dotenv": "^6.2.0",
+    "google-libphonenumber": "^3.1.12",
+    "gulp": "^4.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-rename": "^1.2.2",
+    "jquery": "^3.3.1",
+    "moment": "^2.23.0",
+    "validator": "^10.8.0",
+    "vinyl-source-stream": "^2.0.0"
+  }
+}

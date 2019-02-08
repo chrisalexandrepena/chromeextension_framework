@@ -1,0 +1,15 @@
+#tsf > div:nth-child(2) > div > div > div {
+    background-color: cadetblue;
+}
+
+#tsf > div:nth-child(2) > div > div > div > ul {
+    background-color: aliceblue;
+}
+
+#tsf > div:nth-child(2) > div > div.UUbT9 > div.aajZCb > div > center {
+    background-repeat: white;
+}
+
+#tsf > div:nth-child(2) > div > div > div input[type="text"] {
+    color: white;
+}

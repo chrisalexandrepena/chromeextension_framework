@@ -1,0 +1,61 @@
+{
+    "jquery":{
+        "js": [
+            "jquery.min.js"
+        ]
+    },
+    "jquery-ui": {
+        "js": [
+            "jquery-ui.min.js",
+            "cssLoader.js"
+        ]
+    },
+    "bootstrap": {
+        "js": [
+            "bootstrap.min.js",
+            "popper.min.js"
+        ],
+        "css": [
+            "bootstrap.min.css"
+        ]
+    },
+    "enhancedObjects": {
+        "js": [
+            "enhancedObjects.js"
+        ]
+    },
+    "APICallers": {
+        "js": [
+            "API.js"
+        ]
+    },
+    "fontawesome": {
+        "js": [
+            "fontawesome.js"
+        ]
+    },
+    "animate-css": {
+        "css": [
+            "animate.css"
+        ]
+    },
+    "tippyjs": {
+        "js": [
+            "tippy.all.min.js"
+        ]
+    },
+    "imgareaselect": {
+        "js": [
+            "scripts/jquery.imgareaselect.pack.js"
+        ],
+        "css": [
+            "css/imgareaselect-default.css"
+        ]
+    },
+    "momentjs": {
+        "js": [
+            "moment-with-locales.js",
+            "updateLocale.js"
+        ]
+    }
+}
